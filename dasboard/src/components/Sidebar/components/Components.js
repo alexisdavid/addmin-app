@@ -38,7 +38,7 @@ export const NameInformation = ({ name, image, icon }) => (
  export const ListModules = ({ modules }) => (
     <ul className="navbar-nav ">
       <li className="nav-item">
-        <Link className="nav-link text-white active bg-gradient-info" to={'/home'}>
+        <Link className="nav-link text-white active bg-gradient-primary" to={'/home'}>
           <div className="text-white text-center me-2 d-flex align-items-center justify-content-center">
             <i className="material-icons opacity-">dashboard</i>
           </div>
