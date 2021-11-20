@@ -3,7 +3,7 @@ import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import { GlobalContext } from "../context";
 import PageIndex from '../pages/PageIndex'
 import HomeComponent from '../pages/dashboard/HomeComponent';
-import UsersComponent from '../pages/Gestion/Users/Index';
+import UsersComponent from '../pages/gestion/Users/index';
 
 const RoutesComponent = () => 
   
