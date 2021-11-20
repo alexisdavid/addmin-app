@@ -3,7 +3,7 @@ const TablePaginationButtons = () => {
     return (
         <div className="d-flex justify-content-end">
 
-        <ul className="pagination pagination-info">
+        <ul className="pagination pagination-primary">
         <li className="page-item">
           <a className="page-link" href="#link" aria-label="Previous">
             <span aria-hidden="true">
